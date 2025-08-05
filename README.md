@@ -1,5 +1,3 @@
-# cpp-early-objects
-
 # C++ Early Objects – Exercises
 
 This repo contains my solutions and notes from the book  
