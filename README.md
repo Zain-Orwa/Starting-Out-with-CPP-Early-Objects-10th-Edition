@@ -14,3 +14,10 @@ This repo contains my solutions and notes from the book
 ```bash
 make
 ./hello   # or another target
+
+🧠 What I'm learning
+Fundamentals of C++ syntax
+
+Proper use of cin, cout, and endl
+
+Writing modular, reusable code
